@@ -42,9 +42,9 @@ h1{
 }
 
 main{
-    max-width: 1000px;
-    margin-left: 250px;
-    padding: 0;
+    max-width: 80vw;
+    margin: auto;
+    padding: 5px;
 }
 
 main > p{
@@ -58,12 +58,12 @@ main > p{
 section{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: center ;
 }
 
 section div{
     flex-basis: 350px;
-    margin: 0;
+    margin: 10px;
 }
 
 section div img{
